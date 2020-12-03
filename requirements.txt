@@ -1,0 +1,3 @@
+google-cloud
+google-cloud-bigquery>=0.1
+twython
